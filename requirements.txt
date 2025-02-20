@@ -1,0 +1,6 @@
+fastapi
+unicorn
+gradio 
+requests
+transformers 
+torch
